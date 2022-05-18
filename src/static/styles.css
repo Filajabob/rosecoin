@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Azonix;
+    src: url("../assets/fonts/Azonix.otf");
+}
+
+body {
+    font-family: Azonix, sans-serif;
+}
