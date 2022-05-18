@@ -1,0 +1,2 @@
+# rosecoin
+A simple currency.
